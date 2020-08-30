@@ -1,0 +1,41 @@
+{
+    "height" : 10,
+    "width" : 10,
+    "numberOfMines" : 7,
+    "mines" : [
+        {
+            "row" : 3,
+            "collumn" : 2
+        },
+
+        {
+            "row" : 5,
+            "collumn" : 3
+        },
+
+        {
+            "row" : 1,
+            "collumn" : 7
+        },
+
+        {
+            "row" : 6,
+            "collumn" : 9
+        },
+
+        {
+            "row" : 8,
+            "collumn" : 6
+        },
+
+        {
+            "row" : 8,
+            "collumn" : 7
+        },
+
+        {
+            "row" : 1,
+            "collumn" : 4
+        }
+    ]
+}
